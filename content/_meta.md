@@ -1,5 +1,5 @@
 ---
-Logo: image/logo-trans.png
+Logo: image/logo.png
 Tagline: My portfolio.
 Social:
     - title: Link till Chris's github repo.
