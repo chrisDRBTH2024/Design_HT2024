@@ -6,14 +6,17 @@ Description: This is our index page.
 # Om Christoffer {#title}
 ==========================
 
-## Om mig
+## Om mig {.about}
 
 ### Introduktion
-Mitt namn är Christoffer Carlsson, jag är 37 år gammal och kommer ursprungligen från Västerås.  
-Sedan tidig ålder har jag haft ett stort intresse för teknik, särskilt datorer och programmering.  
-Den här passionen har format både min utbildning och karriär och även påverkat stora delar av mitt liv.  
 
-![Picture of ME!](image/chris.jpg "Christoffer") {.chris}
+<div class="intro">
+    <p>Mitt namn är Christoffer Carlsson, jag är 37 år gammal och kommer ursprungligen från Västerås.<br>
+    Sedan tidig ålder har jag haft ett stort intresse för teknik, särskilt datorer och programmering.
+    Den här passionen har format både min utbildning och karriär och även påverkat stora delar av mitt liv.</p>
+    <img src="image/chris.jpg" alt="Picture of ME!" title="Christoffer" class="chris">
+</div>
+
 
 ### Barndom och Tidig Teknikintresse
 Min resa inom teknik började redan som barn.  

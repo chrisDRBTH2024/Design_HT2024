@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  padding: 2rem;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.side-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav a {
+  font-size: 2.5rem;
+  text-decoration: none;
+  color: $font-color;
+}
+.nav a:hover {
+  color: $lighter-color;
+}

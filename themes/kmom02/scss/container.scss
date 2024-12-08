@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* {
+  color: $font-color;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: $background-color;
+}
+
+
+.main {
+  flex: 1 0 auto;
+}
+
+.header, .footer {
+  flex: 0 0 auto;
+}
