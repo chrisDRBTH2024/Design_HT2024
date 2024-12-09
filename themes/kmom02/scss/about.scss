@@ -1,17 +1,17 @@
 .color-palette {
   display: flex;
-  flex-direction: row; /* Align items side by side */
+  flex-direction: row; 
   margin: 20px 0;
-  justify-content: center; /* Center the palette */
+  justify-content: center;
   align-items: center;
   border: 1px solid #ccc;
 }
 
 .color {
   flex:1;
-  height: 30rem; /* Ensure height matches the look */
+  height: 30rem;
   display: flex;
-  flex-direction: column; /* Align text and color box vertically */
+  flex-direction: column;
   justify-content: flex-end;
   align-items: center;
   text-align: center;
