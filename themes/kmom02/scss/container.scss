@@ -6,18 +6,14 @@
   box-sizing: border-box;
 }
 
-* {
-  color: $font-color;
-}
-
 html, body {
   height: 100%;
 }
 
 body {
   background-color: $background-color;
+  color: #fff;
 }
-
 
 .main {
   flex: 1 0 auto;

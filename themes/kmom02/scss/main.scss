@@ -27,14 +27,15 @@ h1,h2,h3,p, ul {
   }
 }
 
+
 .chris {
   border-radius: 5rem;
   width: 60%;
   max-width: 300px;
   height: auto;
   margin-bottom: 2rem;
-  margin-top: -5rem;
 }
+
 
 @media (max-width: 768px) {
   .intro {
@@ -48,7 +49,7 @@ h1,h2,h3,p, ul {
 
   .chris {
     width: 80%; 
-    max-width: 250px; 
+    max-width: 250px;
   }
 }
 
